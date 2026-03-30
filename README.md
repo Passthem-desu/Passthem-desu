@@ -1,6 +1,6 @@
 ## Hello!!!!!!!!!
 
-[![My Skills](https://skillicons.dev/icons?i=ae,anaconda,arch,astro,bash,blender,c,codepen,cpp,css,debian,django,docker,fastapi,git,github,go,godot,html,ai,js,jenkins,latex,linux,lua,md,neovim,nodejs,obsidian,opencv,ps,postgres,py,raspberrypi,react,redis,regex,rust,sass,sqlite,selenium,svelte,svg,tailwind,tauri,ts,unity,vim,vite,vscode,vue,windows,zig)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,anaconda,arch,astro,bash,blender,bun,c,codepen,cpp,css,debian,django,docker,fastapi,git,github,go,godot,html,ai,js,jenkins,latex,linux,lua,md,neovim,nodejs,obsidian,opencv,ps,postgres,py,raspberrypi,react,redis,regex,rust,sass,sqlite,selenium,svelte,svg,tailwind,tauri,ts,unity,vim,vite,vscode,vue,windows,zig)](https://skillicons.dev)
 
 [![wakatime](https://wakatime.com/badge/user/62a202d2-a371-4189-8856-d989a1910a53.svg)](https://wakatime.com/@62a202d2-a371-4189-8856-d989a1910a53)
 
