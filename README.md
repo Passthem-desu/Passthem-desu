@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello!!!!!!!!!
 
-<!--
-**Passthem-desu/Passthem-desu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **passthem**, a student learning communication engineering in SYSU.
 
-Here are some ideas to get you started:
+I'm a fullstack dev, and mainly writes Astro / C / Golang / Python / Rust / Svelte / Typescript codes. I'm interesting in designing fine-UX web apps as well as infra codes for my friends' projects as my hobby!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I make Otomad (音 MAD) / 鬼畜 / YTPMV videos in my spare time. You can follow me at [OtomadSite](https://otomad.site/@passthem), [Bilibili](https://space.bilibili.com/92852604) or [Youtube](https://www.youtube.com/@Passthem183).
+
+I use NeoVim or Zed to develop most of my projects, and use fish / nushell in WSL for daily use. I write most of my codes without AI, but I'm recently trying to adopt AI into my workflow sanely. You can see my coding time at [WakaTime](https://wakatime.com/@passthem).
+
+I'm currently working on my own [blog system](https://passthem.top/) (in Chinese).
+
+## Contact Me
+
+You can contact me via [passthem183@gmail.com](mailto:passthem183@gmail.com).
+
